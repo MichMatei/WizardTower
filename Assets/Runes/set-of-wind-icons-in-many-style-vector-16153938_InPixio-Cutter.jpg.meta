@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 81e6b6da0bceff4429867562ac5565b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 384313500412755434
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_0
+  - first:
+      213: -698686453514109294
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_1
+  - first:
+      213: 4880092597468614387
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_2
+  - first:
+      213: -513178853541222399
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_3
+  - first:
+      213: 176508953313779823
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_4
+  - first:
+      213: 1824892955873860706
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_5
+  - first:
+      213: -8704891819968449591
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_6
+  - first:
+      213: 4057338505148765704
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_7
+  - first:
+      213: -2646732006573675719
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_8
+  - first:
+      213: 746915295795208185
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_9
+  - first:
+      213: -6703369199888924083
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_10
+  - first:
+      213: 7417718796496248100
+    second: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 752
+        width: 128
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed3d7aa71b555500800000000000000
+      internalID: 384313500412755434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 736
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef9e05f54cd46f0800000000000000
+      internalID: -698686453514109294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 736
+        width: 155
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe412f8c5299b340800000000000000
+      internalID: 4880092597468614387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 734
+        width: 152
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ee683d82d0e8f0800000000000000
+      internalID: -513178853541222399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_4
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 772
+        width: 149
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a1f535f5137200800000000000000
+      internalID: 176508953313779823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 541
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c59f38972535910800000000000000
+      internalID: 1824892955873860706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 530
+        width: 177
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b39e9203023780800000000000000
+      internalID: -8704891819968449591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 533
+        width: 171
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80618ecafdf8e4830800000000000000
+      internalID: 4057338505148765704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 572
+        width: 117
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be484534be44bd0800000000000000
+      internalID: -2646732006573675719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 196
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffdd2311839d5a00800000000000000
+      internalID: 746915295795208185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 344
+        width: 169
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42835a8a39d8f2a0800000000000000
+      internalID: -6703369199888924083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-of-wind-icons-in-many-style-vector-16153938_InPixio-Cutter_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 98
+        width: 179
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d95e4d1f701f660800000000000000
+      internalID: 7417718796496248100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1f9ed631c19eb2c4eaf5b49d0a272362
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

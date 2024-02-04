@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: cbb8ff9d0256c4746b8e27ea9575c120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8497548005235148012
+    second: FireRunesBackground-Cutter_InPixio-Cutter_0
+  - first:
+      213: 4317323900532597710
+    second: FireRunesBackground-Cutter_InPixio-Cutter_1
+  - first:
+      213: 4368068691115583394
+    second: FireRunesBackground-Cutter_InPixio-Cutter_2
+  - first:
+      213: 3993289455841622679
+    second: FireRunesBackground-Cutter_InPixio-Cutter_3
+  - first:
+      213: 6739086388766563171
+    second: FireRunesBackground-Cutter_InPixio-Cutter_4
+  - first:
+      213: -539149685628598699
+    second: FireRunesBackground-Cutter_InPixio-Cutter_5
+  - first:
+      213: 4707679349854339672
+    second: FireRunesBackground-Cutter_InPixio-Cutter_6
+  - first:
+      213: 5719914764602822066
+    second: FireRunesBackground-Cutter_InPixio-Cutter_7
+  - first:
+      213: 5927466410292636611
+    second: FireRunesBackground-Cutter_InPixio-Cutter_8
+  - first:
+      213: 8943911739450652520
+    second: FireRunesBackground-Cutter_InPixio-Cutter_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 465
+        width: 109
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4810599, y: 0.47675338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -453, y: 307}
+        - {x: -452, y: 53}
+        - {x: -263, y: 54}
+        - {x: -262, y: 306}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ced983ea5de570800000000000000
+      internalID: 8497548005235148012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 461
+        width: 99
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3ac8f96373aeb30800000000000000
+      internalID: 4317323900532597710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 466
+        width: 93
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72370e45f7e9c30800000000000000
+      internalID: 4368068691115583394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 466
+        width: 113
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab0cc4a930b6730800000000000000
+      internalID: 3993289455841622679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 466
+        width: 108
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd9198d5b068d50800000000000000
+      internalID: 6739086388766563171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 179
+        width: 111
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556085ba73e8488f0800000000000000
+      internalID: -539149685628598699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 177
+        width: 100
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85282842d69055140800000000000000
+      internalID: 4707679349854339672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 179
+        width: 110
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc9a94c28316f40800000000000000
+      internalID: 5719914764602822066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_8
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 179
+        width: 101
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb6d8b8b47924250800000000000000
+      internalID: 5927466410292636611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireRunesBackground-Cutter_InPixio-Cutter_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 178
+        width: 107
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f66417582f1c70800000000000000
+      internalID: 8943911739450652520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ba726b11e0fc20e4b82f3b96b9169b07
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
